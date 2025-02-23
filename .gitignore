@@ -1,0 +1,25 @@
+# Exclude Visual Studio cache and user-specific files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Exclude build artifacts
+bin/
+obj/
+BuildArtifacts/
+*.exe
+*.dll
+*.pdb
+
+# Exclude Docker-related build cache
+**/Dockerfile
+**/docker-compose.override.yml
+
+# Exclude MAUI specific files
+**/bin/
+**/obj/
+
+# Exclude logs and temp files
+*.log
+*.tmp
