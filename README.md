@@ -36,7 +36,7 @@ Open a terminal and clone the project repository:
 
 bash
 ```
-git clone https://github.com/thomasmore-dn/project-maui-asp-net-docker-MustafaTahaKaradayii.git
+git clone https://github.com/MustafaTahaKaradayii/project-maui-asp-net-docker
 cd project-maui-asp-net-docker
 ```
 
